@@ -1,0 +1,60 @@
+
+.badge-marketing {
+    padding: 0.5em 1em;
+    margin-top: 50px;
+}
+.text-primary {
+    color: #0061f2!important;
+}
+
+.badge-primary-soft {
+    color: #1f2d41;
+    background-color: #bfd6f8;
+}
+
+.badge {
+    display: inline-block;
+    padding: 0.25em 0.4em;
+    font-size: 75%;
+    font-weight: 400;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.35rem;
+}
+.img1{
+    
+    border-radius: 5px;
+    position: relative;
+    height: 453px;
+    width: 300px;
+    margin-top: -8px;
+}
+.para{
+    position: absolute;
+    top: 50%;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    text-align: center;
+}
+.btn{
+    color: rgb(54, 21, 243);
+}
+.one{
+    float: right;
+    font-size: small;
+    margin-top: -400px;
+    margin-right: 135px;
+}
+.two{
+    float: right;
+    font-size: small;
+    margin-top: -400px;
+    margin-right: 10px;
+}
+
+
